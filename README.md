@@ -1,3 +1,11 @@
+## 技术栈
+
+后端 express + mysql + sequelize
+
+前端 umijs
+
+知识点：https://yangxueyou.github.io/xueyou-nodejs/#/src/0007?id=expressmysqlsequlize
+
 ## 启动命令
 
 1. 安装 mysql
@@ -28,4 +36,6 @@ $ npx sequelize db:migrate
 
 ```js
 $ cd front
+$ npm i
+$ npm start
 ```
